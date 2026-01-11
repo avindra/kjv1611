@@ -10,6 +10,7 @@ King James Verſion 1611 Font: Digital Reſtoration
 
 * https://lestaret.wordpress.com/tag/king-james-bible/
 * http://www.drew.edu/news/2015/12/17/heres-a-closer-look-at-drews-1611-king-james-bible
+* https://omeka.drew.edu/exhibits/show/treasures/kjb
 * https://www.kingjamesbibleonline.org/
 
 ## How did I make this?
@@ -43,3 +44,4 @@ OpenType Features :
 5. Extended Character Set
 
 I recommend pairing this font with E.B. Garamond.
+
