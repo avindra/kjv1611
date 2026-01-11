@@ -9,7 +9,8 @@ King James Verſion 1611 Font: Digital Reſtoration
 ## Cool links to more information about the King James Bible
 
 * https://lestaret.wordpress.com/tag/king-james-bible/
-* http://www.drew.edu/news/2015/12/17/heres-a-closer-look-at-drews-1611-king-james-bible
+* https://web.archive.org/web/20210224215202/http://www.drew.edu/news/2015/12/17/heres-a-closer-look-at-drews-1611-king-james-bible
+* https://omeka.drew.edu/exhibits/show/treasures/kjb
 * https://www.kingjamesbibleonline.org/
 
 ## How did I make this?
